@@ -1,0 +1,20 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/BP_Box.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/BP/BP_Box.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/Input/Action/InputActionJump.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/Input/InputMappingContext.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/Input/BP_Controller.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/UI/Menu.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/UI/MenuGameMode.uasset",
+				"C:/Users/gbertemes/Documents/Unreal Projects/MyProject/Content/Guillaume/Menu.umap"
+			]
+		}
+	]
+}
